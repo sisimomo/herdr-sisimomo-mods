@@ -1,0 +1,5 @@
+{
+  "global": {
+    "cmd-n": "mod.open:project-picker"
+  }
+}
